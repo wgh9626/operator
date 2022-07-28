@@ -1,1 +1,1 @@
-FROM quay.io/cilium/operator:v1.12.0
+FROM quay.io/cilium/operator:v1.12.0@sha256:bb2a42eda766e5d4a87ee8a5433f089db81b72dd04acf6b59fcbb445a95f9410
